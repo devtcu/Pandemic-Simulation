@@ -72,9 +72,6 @@ pip install numpy matplotlib
 - Modify parameters at the top of `pandemic.py` to explore different scenarios.
 - You can add more features or tweak the logic for research or educational purposes.
 
-## License
-
-MIT License (or specify your license here)
 
 ---
 
