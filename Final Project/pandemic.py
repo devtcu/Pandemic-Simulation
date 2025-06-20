@@ -6,7 +6,7 @@ from matplotlib.animation import FuncAnimation
 import time
 
 #global constants (tuneable)
-g_size = 7 #grid_size (if you suqare this number, that is the population contained in our simulation)
+g_size = 15 #grid_size (if you suqare this number, that is the population contained in our simulation)
 infectious_rate = 0.4 #chance of being infected
 mortality = 0.9 #chance of death
 recovery_time = 100 #timesteps required for recovery (leading, susbequently, to immunity)
